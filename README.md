@@ -6,7 +6,7 @@
 # Hello, World! :sparkles::dizzy::earth_americas::dart:
 ## I'm Marcelo Junior :bust_in_silhouette:
 
-![capa](https://user-images.githubusercontent.com/59212312/137547187-c1dee1b1-e9b1-48fd-a7c5-a9c7f9acc6a6.jpeg)
+![capa](325419227_860539591941111_6594785959884325513_n.jpg)
 
 
 ```js
