@@ -107,7 +107,7 @@ Scan this QR Code below or follow this [link](https://beacons.ai/designtechti.de
 
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=designtechti490)
 
-![Snake animation](https://github.com/designtechti490/designtechti490/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/designtechti490/Ryrden/blob/output/github-contribution-grid-snake.svg)
 
 ### "Work while they sleep. Learn while they party. Save while they spend. Then live like they dream!"
 ### "Design Tech TI - Design & Technology in one place!"
