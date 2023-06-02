@@ -101,13 +101,13 @@ Scan this QR Code below or follow this [link](https://beacons.ai/designtechti.de
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-121011?style=for-the-badge&logo=postgresql)&nbsp;
 
 
-![Design Tech TI's github stats](https://github-readme-stats.vercel.app/api?username=designtechti&show_icons=true&count_private=true&theme=radical)
+![Design Tech TI's github stats](https://github-readme-stats.vercel.app/api?username=designtechti490&show_icons=true&count_private=true&theme=radical)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=designtechti&layout=compact&langs_count=7&theme=dracula)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=designtechti490&layout=compact&langs_count=7&theme=dracula)
 
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=designtechti)
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=designtechti490)
 
-![Snake animation](https://github.com/designtechti/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/designtechti490/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 ### "Work while they sleep. Learn while they party. Save while they spend. Then live like they dream!"
 ### "Design Tech TI - Design & Technology in one place!"
