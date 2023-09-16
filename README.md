@@ -1,39 +1,37 @@
-
 <!--
 **designtechti/designtechti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 # Hello, World! :sparkles::dizzy::earth_americas::dart:
+
 ## I'm Marcelo Junior :bust_in_silhouette:
 
-![capa](325419227_860539591941111_6594785959884325513_n.jpg)
-
+![capa](capa.png)
 
 ```js
-
 var dev = {
-	"name" : "Marcelo Goulart Rodrigues Junior",
-	"profession" : "Software Analyst", 
-	"company" : "Design Tech TI", 
-	"academicEducation" : "System and Analysis Development",
-	"colledge" : "FAQI",
-	"openSourceAdept" : "true",
-	"catchphrase" : "I'm just a tech!", 
-	"contact" : "https://beacons.ai/designtechti.dev" 
-	}
-
+  name: "Marcelo Goulart Rodrigues Junior",
+  profession: "Software Analyst",
+  company: "Design Tech TI",
+  academicEducation: "System and Analysis Development",
+  colledge: "FAQI",
+  openSourceAdept: "true",
+  catchphrase: "I'm just a tech!",
+  contact: "https://beacons.ai/designtechti.dev",
+};
 ```
 
-
 :uk: English :uk:
+
 - I am a native of POA - RS but currently live in the Metropolitan region of Florianópolis - SC.
-- Nowadays, I am studying ADS at FAQI and self-studying at Alura Online Courses. 
+- Nowadays, I am studying ADS at FAQI and self-studying at Alura Online Courses.
 - I am looking to contribute as a DevSecOps Engineer or IT Infrastructure Analyst.
 - Ask me About: DevOps, Open Source, Cloud Computing, Web Development, GitHub, IT Infrastructure e Banco de Dados.
 - Fun facts about me: I'm passionate about cats, addicted to music, and play basketball on weekends.
 
 :brazil: Português :brazil:
-- Sou gaúcho natural de POA -RS mas moro atualmente na Região Metroploitana de Florianópolis - SC.
+
+- Sou gaúcho natural de POA - RS mas moro atualmente na Região Metropolitana de Florianópolis - SC.
 - Atualmente faço faculdade de ADS na FAQI e também estudo por conta na ALura Cursos Online.
 - Procuro colaborar como DevSecOps Engineer ou Analista de Infraestrutura de TI.
 - Pergunte-me sobre: DevOps, Open Source, Cloud Computing, Web Development, GitHub, Infraestrutura de TI e Banco de Dados.
@@ -48,7 +46,6 @@ Scan this QR Code below or follow this [link](https://beacons.ai/designtechti.de
 
 <br>
 
-
 ## My Skills
 
 **Front-End:**
@@ -59,7 +56,8 @@ Scan this QR Code below or follow this [link](https://beacons.ai/designtechti.de
 ![JQuery](https://img.shields.io/badge/-Jquery-121011?style=for-the-badge&logo=jquery)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-121011?style=for-the-badge&logo=bootstrap)&nbsp;
 ![ReactJS](https://img.shields.io/badge/-ReactJS-121011?style=for-the-badge&logo=react)&nbsp;
-
+![Angular](https://img.shields.io/badge/-Angular-121011?style=for-the-badge&logo=angular)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-121011?style=for-the-badge&logo=typescript)&nbsp;
 
 **Back-End:**
 
@@ -71,7 +69,16 @@ Scan this QR Code below or follow this [link](https://beacons.ai/designtechti.de
 ![Python](https://img.shields.io/badge/-Python-121011?style=for-the-badge&logo=python)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 
-**Ferramentas Deploy:** 
+**Mobile:**
+
+![Android](https://img.shields.io/badge/Android-121011?style=for-the-badge&logo=android)&nbsp;
+![Kotlin](https://img.shields.io/badge/Kotlin-121011?style=for-the-badge&logo=kotlin)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-121011?style=for-the-badge&logo=flutter)&nbsp;
+![Dart](https://img.shields.io/badge/Dart-121011?style=for-the-badge&logo=dart)&nbsp;
+![iOS](https://img.shields.io/badge/iOS-121011?style=for-the-badge&logo=ios)&nbsp;
+![Swift](https://img.shields.io/badge/Swift-121011?style=for-the-badge&logo=swift)&nbsp;
+
+**Ferramentas Deploy:**
 
 ![AWS](https://img.shields.io/badge/-Amazon_Web_Services-121011?style=for-the-badge&logo=amazonaws)&nbsp;
 ![GIT](https://img.shields.io/badge/-GIT-121011?style=for-the-badge&logo=git)&nbsp;
@@ -86,8 +93,6 @@ Scan this QR Code below or follow this [link](https://beacons.ai/designtechti.de
 ![Blender](https://img.shields.io/badge/blender-121011.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-121011?style=for-the-badge&logo=krita)
 
-
-
 **Sistemas Operacionais:**
 
 ![Windows](https://img.shields.io/badge/-Windows-121011?style=for-the-badge&logo=windows)&nbsp;
@@ -100,7 +105,6 @@ Scan this QR Code below or follow this [link](https://beacons.ai/designtechti.de
 ![MongoDB](https://img.shields.io/badge/-MongoDB-121011?style=for-the-badge&logo=mongodb)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-121011?style=for-the-badge&logo=postgresql)&nbsp;
 
-
 ![Design Tech TI's github stats](https://github-readme-stats.vercel.app/api?username=designtechti490&show_icons=true&count_private=true&theme=radical)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=designtechti490&layout=compact&langs_count=7&theme=dracula)
@@ -110,4 +114,5 @@ Scan this QR Code below or follow this [link](https://beacons.ai/designtechti.de
 ![Snake animation](https://github.com/Ryrden/Ryrden/blob/output/github-contribution-grid-snake.svg)
 
 ### "Work while they sleep. Learn while they party. Save while they spend. Then live like they dream!"
+
 ### "Design Tech TI - Design & Technology in one place!"
