@@ -109,10 +109,7 @@ Scan this QR Code below or follow this [link](https://beacons.ai/designtechti.de
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=designtechti490&layout=compact&langs_count=7&theme=dracula)
 
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=designtechti490)
-
-![Snake animation](https://github.com/Ryrden/Ryrden/blob/output/github-contribution-grid-snake.svg)
-
+ ![Snake animation](https://github.com/bessax/bessax/raw/output/github-contribution-grid-snake.svg)  
 ### "Work while they sleep. Learn while they party. Save while they spend. Then live like they dream!"
 
 ### "Design Tech TI - Design & Technology in one place!"
