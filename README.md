@@ -6,7 +6,7 @@
 
 ## I'm Marcelo Junior :bust_in_silhouette:
 
-![capa](capa.png)
+![capa](capa.jpg)
 
 ```js
 var dev = {
@@ -23,7 +23,7 @@ var dev = {
 
 :uk: English :uk:
 
-- I am a native of POA - RS but currently live in the Metropolitan region of Florianópolis - SC.
+- I'm from POA - RS.
 - Nowadays, I am studying ADS at FAQI and self-studying at Alura Online Courses.
 - I am looking to contribute as a DevSecOps Engineer or IT Infrastructure Analyst.
 - Ask me About: DevOps, Open Source, Cloud Computing, Web Development, GitHub, IT Infrastructure e Banco de Dados.
@@ -31,8 +31,8 @@ var dev = {
 
 :brazil: Português :brazil:
 
-- Sou gaúcho natural de POA - RS mas moro atualmente na Região Metropolitana de Florianópolis - SC.
-- Atualmente faço faculdade de ADS na FAQI e também estudo por conta na ALura Cursos Online.
+- Sou natural de POA - RS.
+- Atualmente faço faculdade de ADS na FAQI e também estudo por conta na Alura Cursos Online.
 - Procuro colaborar como DevSecOps Engineer ou Analista de Infraestrutura de TI.
 - Pergunte-me sobre: DevOps, Open Source, Cloud Computing, Web Development, GitHub, Infraestrutura de TI e Banco de Dados.
 - Curiosidades sobre mim: Sou apaixonado por gatos, viciado em músicas e jogo basquete nos finais de semana.
@@ -110,6 +110,7 @@ Scan this QR Code below or follow this [link](https://beacons.ai/designtechti.de
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=designtechti490&layout=compact&langs_count=7&theme=dracula)
 
  ![Snake animation](https://github.com/bessax/bessax/raw/output/github-contribution-grid-snake.svg)  
+
 ### "Work while they sleep. Learn while they party. Save while they spend. Then live like they dream!"
 
 ### "Design Tech TI - Design & Technology in one place!"
