@@ -21,21 +21,11 @@ var dev = {
 };
 ```
 
-:uk: English :uk:
-
 - I'm from POA - RS.
 - Nowadays, I am studying ADS at FAQI and self-studying at Alura Online Courses.
 - I am looking to contribute as a DevSecOps Engineer or IT Infrastructure Analyst.
 - Ask me About: DevOps, Open Source, Cloud Computing, Web Development, GitHub, IT Infrastructure e Banco de Dados.
 - Fun facts about me: I'm passionate about cats, addicted to music, and play basketball on weekends.
-
-:brazil: Português :brazil:
-
-- Sou natural de POA - RS.
-- Atualmente faço faculdade de ADS na FAQI e também estudo por conta na Alura Cursos Online.
-- Procuro colaborar como DevSecOps Engineer ou Analista de Infraestrutura de TI.
-- Pergunte-me sobre: DevOps, Open Source, Cloud Computing, Web Development, GitHub, Infraestrutura de TI e Banco de Dados.
-- Curiosidades sobre mim: Sou apaixonado por gatos, viciado em músicas e jogo basquete nos finais de semana.
 
 ## How to reach me :dart:
 
@@ -78,12 +68,12 @@ Scan this QR Code below or follow this [link](https://beacons.ai/designtechti.de
 ![iOS](https://img.shields.io/badge/iOS-121011?style=for-the-badge&logo=ios)&nbsp;
 ![Swift](https://img.shields.io/badge/Swift-121011?style=for-the-badge&logo=swift)&nbsp;
 
-**Ferramentas Deploy:**
+**Deploy Tools:**
 
 ![AWS](https://img.shields.io/badge/-Amazon_Web_Services-121011?style=for-the-badge&logo=amazonaws)&nbsp;
 ![GIT](https://img.shields.io/badge/-GIT-121011?style=for-the-badge&logo=git)&nbsp;
 
-**Design Gráfico:**
+**Graphic Design:**
 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-121011?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere%20Pro-121011?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
@@ -93,12 +83,12 @@ Scan this QR Code below or follow this [link](https://beacons.ai/designtechti.de
 ![Blender](https://img.shields.io/badge/blender-121011.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-121011?style=for-the-badge&logo=krita)
 
-**Sistemas Operacionais:**
+**Operational Systems:**
 
 ![Windows](https://img.shields.io/badge/-Windows-121011?style=for-the-badge&logo=windows)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-121011?style=for-the-badge&logo=linux)&nbsp;
 
-**Banco de Dados:**
+**Databases:**
 
 ![MySQL](https://img.shields.io/badge/-MySQL-121011?style=for-the-badge&logo=mysql)&nbsp;
 ![MariaDB](https://img.shields.io/badge/-MariaDB-121011?style=for-the-badge&logo=mariadb)&nbsp;
@@ -109,8 +99,6 @@ Scan this QR Code below or follow this [link](https://beacons.ai/designtechti.de
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=designtechti490&layout=compact&langs_count=7&theme=dracula)
 
- ![Snake animation](https://github.com/bessax/bessax/raw/output/github-contribution-grid-snake.svg)  
-
-### "Work while they sleep. Learn while they party. Save while they spend. Then live like they dream!"
+![Snake animation](https://github.com/bessax/bessax/raw/output/github-contribution-grid-snake.svg)  
 
 ### "Design Tech TI - Design & Technology in one place!"
